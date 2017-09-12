@@ -1,0 +1,414 @@
+[
+  {
+    "tag": "a",
+    "display": "inline"
+  },
+  {
+    "tag": "abbr",
+    "display": "inline"
+  },
+  {
+    "tag": "acronym",
+    "display": "inline"
+  },
+  {
+    "tag": "address",
+    "display": "block"
+  },
+  {
+    "tag": "applet",
+    "display": "inline"
+  },
+  {
+    "tag": "area",
+    "display": "inline"
+  },
+  {
+    "tag": "article",
+    "display": "block"
+  },
+  {
+    "tag": "aside",
+    "display": "block"
+  },
+  {
+    "tag": "audio",
+    "display": "none"
+  },
+  {
+    "tag": "b",
+    "display": "inline"
+  },
+  {
+    "tag": "base",
+    "display": "inline"
+  },
+  {
+    "tag": "basefont",
+    "display": "inline"
+  },
+  {
+    "tag": "bdi",
+    "display": "inline"
+  },
+  {
+    "tag": "bdo",
+    "display": "inline"
+  },
+  {
+    "tag": "big",
+    "display": "inline"
+  },
+  {
+    "tag": "blockquote",
+    "display": "block"
+  },
+  {
+    "tag": "br",
+    "display": "inline"
+  },
+  {
+    "tag": "button",
+    "display": "inline-block"
+  },
+  {
+    "tag": "canvas",
+    "display": "inline"
+  },
+  {
+    "tag": "center",
+    "display": "block"
+  },
+  {
+    "tag": "cite",
+    "display": "inline"
+  },
+  {
+    "tag": "code",
+    "display": "inline"
+  },
+  {
+    "tag": "datalist",
+    "display": "none"
+  },
+  {
+    "tag": "dd",
+    "display": "block"
+  },
+  {
+    "tag": "del",
+    "display": "inline"
+  },
+  {
+    "tag": "details",
+    "display": "block"
+  },
+  {
+    "tag": "dfn",
+    "display": "inline"
+  },
+  {
+    "tag": "dialog",
+    "display": "none"
+  },
+  {
+    "tag": "dir",
+    "display": "block"
+  },
+  {
+    "tag": "div",
+    "display": "block"
+  },
+  {
+    "tag": "dl",
+    "display": "block"
+  },
+  {
+    "tag": "dt",
+    "display": "block"
+  },
+  {
+    "tag": "em",
+    "display": "inline"
+  },
+  {
+    "tag": "embed",
+    "display": "inline"
+  },
+  {
+    "tag": "fieldset",
+    "display": "block"
+  },
+  {
+    "tag": "figcaption",
+    "display": "block"
+  },
+  {
+    "tag": "figure",
+    "display": "block"
+  },
+  {
+    "tag": "font",
+    "display": "inline"
+  },
+  {
+    "tag": "footer",
+    "display": "block"
+  },
+  {
+    "tag": "form",
+    "display": "block"
+  },
+  {
+    "tag": "h1",
+    "display": "block"
+  },
+  {
+    "tag": "header",
+    "display": "block"
+  },
+  {
+    "tag": "hr",
+    "display": "block"
+  },
+  {
+    "tag": "i",
+    "display": "inline"
+  },
+  {
+    "tag": "iframe",
+    "display": "inline"
+  },
+  {
+    "tag": "img",
+    "display": "inline"
+  },
+  {
+    "tag": "input",
+    "display": "inline-block"
+  },
+  {
+    "tag": "ins",
+    "display": "inline"
+  },
+  {
+    "tag": "kbd",
+    "display": "inline"
+  },
+  {
+    "tag": "keygen",
+    "display": "inline"
+  },
+  {
+    "tag": "label",
+    "display": "inline"
+  },
+  {
+    "tag": "legend",
+    "display": "block"
+  },
+  {
+    "tag": "li",
+    "display": "list-item"
+  },
+  {
+    "tag": "link",
+    "display": "none"
+  },
+  {
+    "tag": "main",
+    "display": "block"
+  },
+  {
+    "tag": "map",
+    "display": "inline"
+  },
+  {
+    "tag": "mark",
+    "display": "inline"
+  },
+  {
+    "tag": "menu",
+    "display": "block"
+  },
+  {
+    "tag": "menuitem",
+    "display": "inline"
+  },
+  {
+    "tag": "meta",
+    "display": "none"
+  },
+  {
+    "tag": "meter",
+    "display": "inline-block"
+  },
+  {
+    "tag": "nav",
+    "display": "block"
+  },
+  {
+    "tag": "noframes",
+    "display": "none"
+  },
+  {
+    "tag": "noscript",
+    "display": "inline"
+  },
+  {
+    "tag": "object",
+    "display": "inline"
+  },
+  {
+    "tag": "ol",
+    "display": "block"
+  },
+  {
+    "tag": "optgroup",
+    "display": "block"
+  },
+  {
+    "tag": "option",
+    "display": "block"
+  },
+  {
+    "tag": "output",
+    "display": "inline"
+  },
+  {
+    "tag": "p",
+    "display": "block"
+  },
+  {
+    "tag": "param",
+    "display": "none"
+  },
+  {
+    "tag": "picture",
+    "display": "inline"
+  },
+  {
+    "tag": "pre",
+    "display": "block"
+  },
+  {
+    "tag": "progress",
+    "display": "inline-block"
+  },
+  {
+    "tag": "q",
+    "display": "inline"
+  },
+  {
+    "tag": "rp",
+    "display": "inline"
+  },
+  {
+    "tag": "rt",
+    "display": "inline"
+  },
+  {
+    "tag": "ruby",
+    "display": "inline"
+  },
+  {
+    "tag": "s",
+    "display": "inline"
+  },
+  {
+    "tag": "samp",
+    "display": "inline"
+  },
+  {
+    "tag": "script",
+    "display": "none"
+  },
+  {
+    "tag": "section",
+    "display": "block"
+  },
+  {
+    "tag": "select",
+    "display": "inline-block"
+  },
+  {
+    "tag": "small",
+    "display": "inline"
+  },
+  {
+    "tag": "source",
+    "display": "inline"
+  },
+  {
+    "tag": "span",
+    "display": "inline"
+  },
+  {
+    "tag": "strike",
+    "display": "inline"
+  },
+  {
+    "tag": "strong",
+    "display": "inline"
+  },
+  {
+    "tag": "style",
+    "display": "none"
+  },
+  {
+    "tag": "sub",
+    "display": "inline"
+  },
+  {
+    "tag": "summary",
+    "display": "block"
+  },
+  {
+    "tag": "sup",
+    "display": "inline"
+  },
+  {
+    "tag": "table",
+    "display": "table"
+  },
+  {
+    "tag": "textarea",
+    "display": "inline-block"
+  },
+  {
+    "tag": "time",
+    "display": "inline"
+  },
+  {
+    "tag": "title",
+    "display": "none"
+  },
+  {
+    "tag": "track",
+    "display": "inline"
+  },
+  {
+    "tag": "tt",
+    "display": "inline"
+  },
+  {
+    "tag": "u",
+    "display": "inline"
+  },
+  {
+    "tag": "ul",
+    "display": "block"
+  },
+  {
+    "tag": "var",
+    "display": "inline"
+  },
+  {
+    "tag": "video",
+    "display": "inline"
+  },
+  {
+    "tag": "wbr",
+    "display": "inline"
+  }
+]
