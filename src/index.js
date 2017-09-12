@@ -4,5 +4,6 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
+document.title = 'Default Display Viewer';
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
